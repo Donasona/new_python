@@ -6,3 +6,4 @@ if num%sum==0:
     print("Harshad number")
 else:
     print("not a harshad number")
+    
