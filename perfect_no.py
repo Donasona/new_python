@@ -1,4 +1,4 @@
-num=int(input("enter the number:"))
+num=7
 sum=0
 for i in range(1,num):
     if num%i==0:
